@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+.main{
+    width: 70%;
+    height: 100vh;
+    background-color: gray;
+    margin: 0 auto;
+}
+.container{
+    width:74%;
+    height: 500px;
+    margin: 20px auto;
+    padding-top: 10px;
+   
+}
+.element{
+    width: 30%;
+    height: 450px;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 20px;
+}
+.level{
+  background-color: aqua;
+  color: white;
+  font-size: 25px;
+  padding: 15px;
+}
+.price{
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+span{
+    font-size: 75px;
+    color: gray;
+}
+.text{
+    font-size: 20px;
+    padding: 10px;
+}
+.for-decoration{
+    width: 70%;
+    height: 200px;
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.decor{
+    width: 80%;
+    height: 30px;
+    background-color: rgb(91, 89, 89);
+    margin: 0 auto;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
